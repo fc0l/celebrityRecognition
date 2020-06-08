@@ -1,3 +1,5 @@
-##Frontend celebrity recognition
+## Frontend celebrity recognition
 
-This is a practice project built with React and API (clarifay) is only Frontend, the rest of the project is available at:
+This is a practice project built with React and API (clarifay)
+
+The rest of the project will be available soon
